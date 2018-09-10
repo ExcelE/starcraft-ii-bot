@@ -9,7 +9,7 @@ In most deep learning implementation for games, Q Learning seems to be the most 
 
 StarCraft II is a Real-time Strategy Game. It gives players the ability to pick and choose units and upgrades provided that the players understand the costs (time and resources). Starting off with limited resources, the players will have to decide the best possible course of action to increase resource acquisition while building an army to either attack or defend. And you can imagine the game state possibilities as the match goes on. 
 
-Another popular algorithm is Reinforcement Learning, basically rewarding the bot for actions that lead up to reaching the objective. But again, because of the randomness that leads up to longer matches, I think its an approach that 
+Another popular algorithm is Reinforcement Learning, basically rewarding the bot for actions that lead up to reaching the objective. But again, because of the randomness that leads up to longer matches, I think its an approach that becomes resource intensive and not as efficient. Though I could (extremely likely) be wrong.
 
 
 ### Project State:
